@@ -6,7 +6,7 @@
  FREE TO CHOOSE - Homing Projectiles
 
 ## Controls:
- MOVE - Arrow keys
+ MOVE - Arrow keys,
  FIRE1 - Left mouse button
  FIRE2 - Right mouse button
  BACK TO MENU - Escape
