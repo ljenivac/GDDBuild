@@ -1,5 +1,5 @@
-### ''GDD Assignment 1''
-                _Marko_ _Ivančić,_ _11832229_
+**Bold** ### ''GDD Assignment 1''
+_italic_         Marko Ivančić, 11832229
 
 ## Features:
 Mandatory -Time stop item
