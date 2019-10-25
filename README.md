@@ -1,4 +1,4 @@
-### GDD Assignment 1
+# GDD Assignment 1
         Marko Ivančić, 11832229
 
 ## Features:
