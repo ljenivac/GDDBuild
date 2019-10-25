@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "FirstTestProject",
+"productName": "GDD",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
