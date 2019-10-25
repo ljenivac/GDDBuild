@@ -1,3 +1,25 @@
+### ''GDD Assignment 1''
+                _Marko_ _Ivančić,_ _11832229_
+
+## Features:
+Mandatory -Time stop item
+NonMandatory - Homing Projectiles
+
+## Controls:
+Move - Arrow keys
+Fire1 - Left mouse button
+Fire2 - Right mouse button
+Back to menu - Escape
+
+## Mechanics:
+Shoot enemies, collect bonus items, defeat the boss
+
+## Win condition:
+Achieve a new highScore
+
+## Lose condition:
+Lose all lives
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ljenivac/GDDBuild/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
