@@ -2,14 +2,14 @@
         Marko Ivančić, 11832229
 
 ## Features:
- MANDATORY -Time stop item, 
+ MANDATORY -Time stop item  
  FREE TO CHOOSE - Homing Projectiles
 
 ## Controls:
- MOVE - Arrow keys, 
- FIRE1 - Left mouse button, 
- FIRE2 - Right mouse button, 
- BACK TO MENU - Escape, 
+ MOVE - Arrow keys  
+ FIRE1 - Left mouse button  
+ FIRE2 - Right mouse button  
+ BACK TO MENU - Escape  
 
 ## Mechanics:
 Shoot enemies, collect bonus items, defeat the boss
